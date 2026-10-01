@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written five-record example
+{"id":"one","synthetic":true,"votes":[{"agent":"a","answer":"yes"},{"agent":"b","answer":"yes"}],"ground_truth":"yes"}
+{"id":"two","synthetic":true,"votes":[{"agent":"a","answer":"yes"},{"agent":"b","answer":"yes"},{"agent":"c","answer":"no"}],"ground_truth":"yes"}
+{"id":"three","synthetic":true,"votes":[{"agent":"a","answer":"yes"},{"agent":"b","answer":"no"}],"ground_truth":"yes"}
+{"id":"four","synthetic":true,"votes":[],"ground_truth":"yes"}
+{"id":"five","synthetic":true,"votes":[{"agent":"a","answer":"是"},{"agent":"b","answer":"是"}],"ground_truth":"是"}
